@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7BE0F9E9-C947-48E7-81A6-793802527B45"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CF009FB-DE03-4EAC-840C-8FCF307AB3EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AisleDemo/Helpers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "apiCall(urlString:params:http:_:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6CF009FB-DE03-4EAC-840C-8FCF307AB3EC - 7cd60dfe6cab2234"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AisleDemo.NetworkManager.apiCall(urlString: Swift.String, params: Swift.Dictionary&lt;Swift.String, Any&gt;, http: AisleDemo.HTTP_Methods, _: Swift.String, completionHandler: (Swift.Result&lt;Foundation.Data, AisleDemo.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AisleDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganeshn/Documents/AisleDemo/AisleDemo/Helpers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1981">
+               </Location>
+               <Location
+                  uuid = "6CF009FB-DE03-4EAC-840C-8FCF307AB3EC - afb291247425eecd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AisleDemo.NetworkManager.apiCall(urlString: Swift.String, params: Swift.Dictionary&lt;Swift.String, Any&gt;, http: AisleDemo.HTTP_Methods, _: Swift.String, completionHandler: (Swift.Result&lt;Foundation.Data, AisleDemo.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AisleDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganeshn/Documents/AisleDemo/AisleDemo/Helpers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3736E6C-229C-40C2-8880-BB664B9D6F5D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AisleDemo/Helpers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "apiCall(urlString:params:http:_:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB5FDEE6-2503-45FD-84DD-6F8246795321"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AisleDemo/Helpers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "apiCall(urlString:params:http:_:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB5FDEE6-2503-45FD-84DD-6F8246795321 - afb291247425eecd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AisleDemo.NetworkManager.apiCall(urlString: Swift.String, params: Swift.Dictionary&lt;Swift.String, Any&gt;, http: AisleDemo.HTTP_Methods, _: Swift.String, completionHandler: (Swift.Result&lt;Foundation.Data, AisleDemo.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AisleDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganeshn/Documents/AisleDemo/AisleDemo/Helpers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "EB5FDEE6-2503-45FD-84DD-6F8246795321 - afb291247425eecd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AisleDemo.NetworkManager.apiCall(urlString: Swift.String, params: Swift.Dictionary&lt;Swift.String, Any&gt;, http: AisleDemo.HTTP_Methods, _: Swift.String, completionHandler: (Swift.Result&lt;Foundation.Data, AisleDemo.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AisleDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganeshn/Documents/AisleDemo/AisleDemo/Helpers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "519">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDE23C77-C36D-4C95-A1B1-8F05FA6B8A30"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AisleDemo/Helpers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "apiCall(urlString:params:http:_:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CDE23C77-C36D-4C95-A1B1-8F05FA6B8A30 - afb291247425ef68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AisleDemo.NetworkManager.apiCall(urlString: Swift.String, params: Swift.Dictionary&lt;Swift.String, Any&gt;, http: AisleDemo.HTTP_Methods, _: Swift.String, completionHandler: (Swift.Result&lt;Foundation.Data, AisleDemo.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AisleDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganeshn/Documents/AisleDemo/AisleDemo/Helpers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "CDE23C77-C36D-4C95-A1B1-8F05FA6B8A30 - afb291247425ef68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AisleDemo.NetworkManager.apiCall(urlString: Swift.String, params: Swift.Dictionary&lt;Swift.String, Any&gt;, http: AisleDemo.HTTP_Methods, _: Swift.String, completionHandler: (Swift.Result&lt;Foundation.Data, AisleDemo.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AisleDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganeshn/Documents/AisleDemo/AisleDemo/Helpers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "686">
+               </Location>
+               <Location
+                  uuid = "CDE23C77-C36D-4C95-A1B1-8F05FA6B8A30 - afb291247425ef68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AisleDemo.NetworkManager.apiCall(urlString: Swift.String, params: Swift.Dictionary&lt;Swift.String, Any&gt;, http: AisleDemo.HTTP_Methods, _: Swift.String, completionHandler: (Swift.Result&lt;Foundation.Data, AisleDemo.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AisleDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganeshn/Documents/AisleDemo/AisleDemo/Helpers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "783">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
